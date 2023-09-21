@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "University of Michigan Field Robotics Group"
-  avatar           : "/assets/images/frog-logo.jpg"
+  avatar           : "/assets/images/frog-logo.png"
   bio              : "Our research spans robotics, computer vision, and machine learning with a focus on enabling autonomy in dynamic, unstructured, or remote environments across field robotics applications."
   location         : "Ann Arbor, MI, USA"
   email            :
