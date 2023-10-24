@@ -1,5 +1,17 @@
 # main links
 main:
+  - title: "News"
+    url: /news/
+  
+  - title: "Overview"
+    url: /overview/
+  
+  - title: "Examples"
+    url: /examples/
+  
+  - title: "Download"
+    url: /download/
+
   - title: "Link to Paper"
     url: https://scholar.google.com/citations?hl=en&user=DsN9c-YAAAAJ
   # - title: "About"
@@ -8,5 +20,4 @@ main:
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-  - title: "News"
-    url: /news/
+  
