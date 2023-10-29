@@ -35,7 +35,7 @@ Although side scan sonar produces high resolution images of the environment, vie
 </p>
 
 ### Strided Cropping
-As survey lengths ($l$) can vary for each mission, the resulting sonar images are of different lengths. the dataset provides full-sized images, but we square-cropped these images to be input to deep neural networks. Crops are generated. Please check our paper for more details.
+As survey lengths can vary for each mission, the resulting sonar images are of different lengths. the dataset provides full-sized images, but we square-cropped these images to be input to deep neural networks. Crops are generated. Please check our paper for more details.
 
 ## Labeling Policy
 Pixel-wise labeling of the post-processed sonar images was conducted by a team of three researchers with shared labeling guidelines.
