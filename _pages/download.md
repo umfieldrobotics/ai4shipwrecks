@@ -5,7 +5,4 @@ permalink: /download/
 author_profile: true
 ---
 
-## Dataset File Structure
-
-## Download Link
-To be released...
+We are about to release the dataset and benchmarking tools. Please stay tuned.
