@@ -22,17 +22,17 @@ Surveys were conducted in Thunder Bay National Marine Sanctuary (TBNMS) in Lake 
     These proposed survey regions were selected in coordination with scientists at TBNMS to cover a wide range of ship types, site relief, wreck characteristics, and water depth, prioritizing sites within a reasonable distance from the port of Alpena. 
     This ensured that we could survey a maximum number of sites while still capturing variation across samples, providing a unique and valuable dataset for training machine learning methods. 
     Furthermore, this large and diverse dataset allows us to validate and thoroughly evaluate the accuracy and generalizability of developed methods.
-<p float="middle">
+<!-- <p float="middle">
   <img src="../assets/images/map-v3.png" width="80%" />
-</p>
+</p> -->
 
 ### Side-scan Sonar
 A side-scan sonar (SSS) emits fan-shaped low and high-frequency acoustic pulses from two transducers aimed at the seabed floor. The signal travels through the water column and reflects off the terrain or other objects in the swath area before being received by the sensor. After a sonar chirp has been emitted, the sensor receives and bins the intensity of returns according to time-of-flight. On the horizontal axis, an SSS image is a histogram of return intensity at equally spaced intervals in time. Each histogram is accumulated in the vertical axis as the transducer moves to produce an image with two dimensions. The higher the echo signal intensity, the higher the pixel value in the resulting sonar image. Raw SSS imagery is single channel grayscale but can be viewed with various color palettes for improved visibility.
 
 Although side scan sonar produces high resolution images of the environment, view-dependent shadowing effects, self-occlusion, material-dependent acoustic noise, and distortion make object detection a difficult task for both humans and automated algorithms. The figure below illustrates common distortions and noise found in side scan sonar imagery.
-<p float="middle">
+<!-- <p float="middle">
   <img src="../assets/images/sonar_wrecks.png" width="75%" />
-</p>
+</p> -->
 
 ### Strided Cropping
 As survey lengths can vary for each mission, the resulting sonar images are of different lengths. the dataset provides full-sized images, but we square-cropped these images to be input to deep neural networks. Crops are generated. Please check our paper for more details.

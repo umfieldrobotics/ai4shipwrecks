@@ -19,8 +19,11 @@ The dataset file structure is shown in the figure below.
   <img src="../assets/images/dataset_structure.png" width="65%" />
 </p>
 
+## Dataset Helper Scripts
+We provide helper scripts to load the dataset and visualize the dataset [here](https://github.com/umfieldrobotics/ai4shipwrecks-scripts).
+
 ## Dataset Examples
-To be added
+To be added...
 
 ## Download Link
 Please check our [download](https://umfieldrobotics.github.io/ai4shipwrecks/download/) page.
