@@ -5,4 +5,4 @@ permalink: /download/
 author_profile: true
 ---
 
-We are about to release the dataset and benchmarking tools. Please stay tuned.
+The dataset can be downloaded [here](https://deepblue.lib.umich.edu/data/concern/data_sets/8623hz41x?locale=en).
